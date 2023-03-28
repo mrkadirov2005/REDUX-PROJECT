@@ -1,0 +1,58 @@
+export const mockProducts = [
+  {
+    path: "https://th.bing.com/th/id/OIP.9GrzJstQ8NrbZIwhN0-taQHaHa?pid=ImgDet&w=2500&h=2500&rs=1",
+    id: 1,
+    name: "best",
+    description: "best ",
+    price: 55,
+  },
+  {
+    path: "https://th.bing.com/th/id/OIP.9GrzJstQ8NrbZIwhN0-taQHaHa?pid=ImgDet&w=2500&h=2500&rs=1",
+    id: 2,
+    name: "best",
+    description: "iphoning",
+    price: 45,
+  },
+  {
+    path: "https://th.bing.com/th/id/OIP.9GrzJstQ8NrbZIwhN0-taQHaHa?pid=ImgDet&w=2500&h=2500&rs=1",
+    id: 3,
+    name: "best",
+    description: "Iphone pro selling",
+    price: 65,
+  },
+  {
+    path: "https://th.bing.com/th/id/OIP.9GrzJstQ8NrbZIwhN0-taQHaHa?pid=ImgDet&w=2500&h=2500&rs=1",
+    id: 4,
+    name: "best",
+    description: "Photo of iphone",
+    price: 75,
+  },
+  {
+    path: "https://th.bing.com/th/id/OIP.9GrzJstQ8NrbZIwhN0-taQHaHa?pid=ImgDet&w=2500&h=2500&rs=1",
+    id: 5,
+    name: "best",
+    description: "photo of iphone holding person in the railway station",
+    price: 55,
+  },
+  {
+    path: "https://th.bing.com/th/id/OIP.9GrzJstQ8NrbZIwhN0-taQHaHa?pid=ImgDet&w=2500&h=2500&rs=1",
+    id: 6,
+    name: "best",
+    description: "samsung photo",
+    price: 50,
+  },
+  {
+    path: "https://th.bing.com/th/id/OIP.9GrzJstQ8NrbZIwhN0-taQHaHa?pid=ImgDet&w=2500&h=2500&rs=1",
+    id: 7,
+    name: "best",
+    description: "total images",
+    price: 32,
+  },
+  {
+    path: "https://th.bing.com/th/id/OIP.9GrzJstQ8NrbZIwhN0-taQHaHa?pid=ImgDet&w=2500&h=2500&rs=1",
+    id: 8,
+    name: "best",
+    description: "total images",
+    price: 32,
+  },
+]
